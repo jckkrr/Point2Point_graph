@@ -13,7 +13,7 @@ In fact, no other team bar Eintracht Frankfurt had a more disproportionate home 
 
 **About**
 
-Created using Plotly Express, with table data from Soccerway.com.
+Created using Plotly (multiplot .go and single plot .px versions), with table data from Soccerway.com.
 
 In this example, it looks at the final 2020-2021 Bundesliga season.
 
