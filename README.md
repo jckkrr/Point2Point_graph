@@ -9,7 +9,8 @@ These point-to-point graphs show how much advantage Union got from playing at th
 
 In fact, no other team bar Eintracht Frankfurt had a more disproportionate home ground advantage.
 
-About
+**About**
+
 Created using Plotly Express, with table data from Soccerway.com.
 
 In this example, it looks at the final 2020-2021 Bundesliga season.
