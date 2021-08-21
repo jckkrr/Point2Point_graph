@@ -17,6 +17,7 @@ In this example, it looks at the final 2020-2021 Bundesliga season.
 
 Four custome style functions have been built into the graph function: 'Default', 'Minimalist', 'Pastely', 'LightBlueBack'.
 
-![newplot (4)](https://user-images.githubusercontent.com/69304112/130306757-1e4931be-af19-411f-9c83-1dc02179752a.png)
-![newplot (3)](https://user-images.githubusercontent.com/69304112/130306759-74e8ced4-a0f7-4346-94e5-a8b76b12da86.png)
+![newplot (5)](https://user-images.githubusercontent.com/69304112/130306831-58551689-2bb1-456d-a38d-50d7d4ea6d95.png)
 ![newplot (2)](https://user-images.githubusercontent.com/69304112/130306762-83e15b81-d06e-4270-8ad1-d9252e367656.png)
+![newplot (3)](https://user-images.githubusercontent.com/69304112/130306759-74e8ced4-a0f7-4346-94e5-a8b76b12da86.png)
+![newplot (4)](https://user-images.githubusercontent.com/69304112/130306757-1e4931be-af19-411f-9c83-1dc02179752a.png)
