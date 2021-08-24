@@ -23,7 +23,7 @@ Four custom style functions have been built into the graph function: 'Minimalist
 ![newplot (3)](https://user-images.githubusercontent.com/69304112/130306759-74e8ced4-a0f7-4346-94e5-a8b76b12da86.png)
 ![newplot (4)](https://user-images.githubusercontent.com/69304112/130306757-1e4931be-af19-411f-9c83-1dc02179752a.png)
 
-Before starting, use the soccerwayWideTableScraper to scrape the wide tabe data (which includes breakdowns of home and away season tallies) to create a CSV of this data. 
+Before starting, use the soccerwayWideTableScraper to scrape the wide table data (which includes breakdowns of home and away season tallies) to create a CSV of this data. 
 
 Then run the main script, which will begin by making a number of simple calculations (eg goals for per home match) based on that data.  
 
