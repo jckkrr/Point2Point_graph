@@ -13,7 +13,7 @@ In fact, no other team bar Eintracht Frankfurt had a more disproportionate home 
 
 **About**
 
-Created using Plotly (multiplot .go and single plot .px versions), with table data from Soccerway.com.
+Created using Plotly (.go) with table data from Soccerway.com.
 
 In this example, it looks at the final 2020-2021 Bundesliga season.
 
@@ -30,13 +30,3 @@ Then run the main script, which will begin by making a number of simple calculat
 The allPlots function then creates the quartet of slope graphs, with two teams able to be highlighted. These two teams are noted as 'home' and 'away' as this function is designed to be be used automatically each matchday to produce slope graphs for that round's various opponents. These two teams are positioned on top of all the other teams' lines (in other words, they are moved to the bottom of the dataframe table).
 
 Four custom style functions have been built into the graph function: 'Default', 'Minimalist', 'Pastely', 'LightBlueBack'. Access these via the chosen_style variable.
-
-
-**Notes on subplots:**
-
-The Plotly .go version allows for sub plots. 
-
-The Plotly Express .px version produces individual plots. To display them horizontally, there  is a simple workaround: in a website, use a 1x4 grid (width=240px height=800px).
-
-![image](https://user-images.githubusercontent.com/69304112/130305951-a923e56b-c02b-494f-a53c-ec19f3516f53.png)
-
