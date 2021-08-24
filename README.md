@@ -27,7 +27,7 @@ Before starting, use the soccerwayWideTableScraper to scrape the wide tabe data 
 
 Then run the main script, which will begin by making a number of simple calculations (eg goals for per home match) based on that data.  
 
-The p2pGraph function then creates individual slope graphs, with two teams able to be highlighted. These two teams are noted as 'home' and 'away' as this function is designed to be be used automatically each matchday to produce slope graphs for that round's various opponents. These two teams are positioned on top of all the other teams' lines (in other words, they are moved to the bottom of the dataframe table).
+The allPlots function then creates the quartet of slope graphs, with two teams able to be highlighted. These two teams are noted as 'home' and 'away' as this function is designed to be be used automatically each matchday to produce slope graphs for that round's various opponents. These two teams are positioned on top of all the other teams' lines (in other words, they are moved to the bottom of the dataframe table).
 
 Four custom style functions have been built into the graph function: 'Default', 'Minimalist', 'Pastely', 'LightBlueBack'. Access these via the chosen_style variable.
 
