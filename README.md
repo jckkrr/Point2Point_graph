@@ -1,5 +1,5 @@
-# Point-to-point graph for football table data
-A script that takes a 'wide' table of a football season and returns a point-to-point line graph.
+# Slope graph for football table data
+A script that takes a 'wide' table of a football season and returns a quartet of slope graphs. Slope graphs are an effective of showing how various values have changed over time, or here, how various values change for a team at home and on the road.
 
 ![image](https://user-images.githubusercontent.com/69304112/130336648-ae7f8496-b39b-412b-8928-a4d54727c26a.png)
 
@@ -7,7 +7,7 @@ A script that takes a 'wide' table of a football season and returns a point-to-p
 
 How did Union Berlin - the German capital's "other" team - manage to make it into the Europa League while their rivals from the westside of town only just avoided relegation?
 
-These point-to-point graphs show how much advantage Union got from playing at their "fan-built" stadium - even with barely anyone there.
+These slope graphs show how much advantage Union got from playing at their "fan-built" stadium - even with barely anyone there.
 
 In fact, no other team bar Eintracht Frankfurt had a more disproportionate home ground advantage.
 
@@ -25,7 +25,7 @@ Four custom style functions have been built into the graph function: 'Minimalist
 
 The first part of the script imports the table CSV (future feature: scraping directly from site) and makes a number of simple calculations (eg goals for per home match).  
 
-The p2pGraph function then creates individual p2p graphs, with two teams able to be highlighted. These two teams are noted as 'home' and 'away' as this function is designed to be be used automatically each matchday to produce p2p graphs for that round's various opponents. These two teams are positioned on top of all the other teams' lines (in other words, they are moved to the bottom of the dataframe table).
+The p2pGraph function then creates individual slope graphs, with two teams able to be highlighted. These two teams are noted as 'home' and 'away' as this function is designed to be be used automatically each matchday to produce slope graphs for that round's various opponents. These two teams are positioned on top of all the other teams' lines (in other words, they are moved to the bottom of the dataframe table).
 
 Four custom style functions have been built into the graph function: 'Default', 'Minimalist', 'Pastely', 'LightBlueBack'. Access these via the chosen_style variable.
 
