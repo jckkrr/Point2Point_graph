@@ -1,15 +1,15 @@
-# Slope graph for football table data
-A script that takes a 'wide' table of a football season and returns a quartet of slope graphs. Slope graphs are an effective of showing how various values have changed over time, or here, how various values change for a team at home and on the road.
-
-![image](https://user-images.githubusercontent.com/69304112/130336648-ae7f8496-b39b-412b-8928-a4d54727c26a.png)
-
-
+# Point-to-point graphs for football table data
 
 How did Union Berlin - the German capital's "other" team - manage to make it into the Europa League while their rivals from the westside of town only just avoided relegation?
 
-These slope graphs show how much advantage Union got from playing at their "fan-built" stadium - even with barely anyone there.
+These point-to-point graphs show how much advantage Union got from playing at their "fan-built" stadium - even with barely anyone there.
 
 In fact, no other team bar Eintracht Frankfurt had a more disproportionate home ground advantage.
+
+![image](https://user-images.githubusercontent.com/69304112/130336648-ae7f8496-b39b-412b-8928-a4d54727c26a.png)
+
+This script that takes a 'wide' table of a football season and returns a quartet of point-to-point graphs. Point-to-point graphs are an effective of showing how various values have changed over time, or here, how various values change for a team at home and on the road.
+
 
 **About**
 
